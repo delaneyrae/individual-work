@@ -3,3 +3,5 @@
 * Thoughts
 * Feelings
 * Decisions
+* A moment of indecision
+* A moment of panic
